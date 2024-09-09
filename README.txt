@@ -36,7 +36,7 @@ Troubleshooting
 
 License
 
-Smart Hand is distributed under the MIT License. See [LICENSE](LICENSE) for more details.
+Smart Hand is distributed under the MIT License. See LICENSE for more details.
 
 ---
 
